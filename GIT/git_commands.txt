@@ -1,0 +1,24 @@
+
+**Takes repository <url> and saves a copy on local PC
+git clone <url>
+
+**Tells wich files we want to add to repository when done commit (tracking a file)
+git add <filename>
+
+**Takes a snapshot of current work and attaches message that leter on we can user to track wersion control
+got commit -m "message"
+
+**Showing logs of all commits 
+git log
+
+**Shows us all branches, with the green representing the branch we are currently on 
+git branch
+
+**Creates new branch 
+gi brancs ______
+
+**Switches the branch
+git checkout _____
+
+**git fetch and git merge it what is done when we do simply 
+git pull
