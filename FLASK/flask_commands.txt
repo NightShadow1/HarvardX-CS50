@@ -1,0 +1,4 @@
+In order to set the Flas to run in development mode instead of production, we need to run this command:
+FLASK_ENV=development flask run 
+
+
