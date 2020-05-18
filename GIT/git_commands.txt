@@ -22,3 +22,17 @@ git checkout _____
 
 **git fetch and git merge it what is done when we do simply 
 git pull
+
+
+Quick tips: 
+
+** if you are using GIT for Desktop (windows) you simply need to select wich repository do you wanna use and then 
+open prefered text editor using keys CTRL + SHIFT + A 
+
+If VS Code is your prefered text editor then all repository will be available instant,
+If you made changes to any file just save the changes and go to Source control on the left side and 
+type in a message then CTRL + ENTER
+
+now you have to go to GIT For windows and there it will ask you to push the content to git web CRTL + P
+
+once that is done, a copy of your work will be saved online.
