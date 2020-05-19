@@ -1,0 +1,6 @@
+In this Flask app, we have created Pythin file in which we specified the HTML page that we wanted to be displayed,
+In this case it is index.html using render_template class 
+
+Also, we needed to create folder named "templates" in order for Flask to search that index file which we will use in this case as a template.
+
+It only shows fuck you all, but in future excersises we will dig dipper ;) 
