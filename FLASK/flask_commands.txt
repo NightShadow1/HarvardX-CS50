@@ -1,4 +1,6 @@
 In order to set the Flas to run in development mode instead of production, we need to run this command:
 FLASK_ENV=development flask run 
 
+To change which python file does the Flask need to run on we need to type the folowing:
+export FLASK_APP=_______.py 
 
