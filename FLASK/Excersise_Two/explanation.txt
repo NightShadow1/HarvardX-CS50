@@ -1,0 +1,10 @@
+In this excersise, if we look at app.py file we have under "/" route 
+a variable called headline and it contains some string 
+
+then in render_template we explicitly said that we want to use index.html and we passed to that page that 
+variable "headline=headline"
+
+this means that it will search the index.html and whenewer it comes across {{headline}} it will change that to that string that was passed
+
+this is possible because {{}} is part of Jinja2 and essentualy this is the way for us to create 
+dinamically web pages. 
