@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Is it new year?</title>
+        <style>
+            body{
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        {% if new_year %} <!-- same as if statement this "new_year" we pass in app.py-->
+            <h1>Yes, happy new year!</h1>
+        {% else %}
+            <h1>No!</h1>
+        {% endif %}
+    </body>
+</html>
