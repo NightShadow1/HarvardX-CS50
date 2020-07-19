@@ -5,6 +5,8 @@ Going through the basics of Front-end including (HTML, CSS, SASS, Bootstrap)
 
 Backend (Python, Flask, SQL (SQL Alchemy), JavaScript)
 
+# NEW Django! 
+
 
 HTML - <link>https://nightshadow1.github.io/HarvardX-CS50/HTML/all_HTML_elements.html</link>
 
